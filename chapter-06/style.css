@@ -1,0 +1,16 @@
+.table1 {
+  width: 400;
+  cellpadding:10;
+  cellspacing:5;
+  border: 2px;
+  background-color: #efefef;
+
+}
+
+.balance {
+  width: 150;
+  background-color: #cccccc;
+   border: 2;
+  
+
+}
